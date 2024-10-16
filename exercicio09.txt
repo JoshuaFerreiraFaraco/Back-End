@@ -1,0 +1,12 @@
+P: Marcelo Malaguitti defendeu a importância de agências de segurança especializadas na proteção contra ameaças cibernéticas. Cite pelo menos um tipo de ataque conhecido contra sistemas de backend e de que forma isso impactou nos negócios de uma empresa e/ou nos usuários.
+
+R: DDoS (Ataque de Negação de Serviços), o maior ataque de DDoS da história ocorreu em 2023, 
+fora um ataque realizado contra diversas empresas grandes como a Amazon, Google e Microsoft 
+na tentativa de desestabilizar e desacelerar seus processos, interronpendo seus serviços momentaneamente,
+porém, as equipes conseguiram agir rapidamente, dessa forma, os impactos não foram tao severos.
+
+Como listado no artigo abaixo: "A importância de contar com mecanismos de defesa robustos contra ciberataques desse tipo não pode ser subestimada. A capacidade de detectar, responder e se adaptar rapidamente a essas ameaças é crucial para garantir a segurança e a continuidade dos serviços das empresas."
+
+Caso as empresas não agissem rapidamente isso poderia criar prejuizos gigantescos.
+
+Fonte: https://www.nv7.com.br/2023/12/07/google-amazon-e-microsoft-enfrentam-maior-ataque-ddos-da-historia/
